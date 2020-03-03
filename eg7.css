@@ -10,7 +10,7 @@ body {
 }
 
 #box {
-  width: 30%;
+  width: 40%;
   height: 50%;
   border: 1px solid #000;
   border-radius: 10px;
@@ -28,7 +28,7 @@ body {
   width: 30rem;
   background-color: #000;
   color: #fff;
-  margin-left: 17%;
+  margin-left: 25%;
 }
 
 #box1 ::-webkit-input-placeholder {
@@ -60,7 +60,7 @@ body {
   width: 30rem;
   background-color: #000;
   color: #fff;
-  margin-left: 17%;
+  margin-left: 25%;
 }
 
 #box2 ::-webkit-input-placeholder {
@@ -86,7 +86,7 @@ p {
 #box2 label {
   font-size: 2rem;
   padding-top: 5%;
-  padding-left: 10%;
+  padding-left: 15%;
 }
 
 #c {
